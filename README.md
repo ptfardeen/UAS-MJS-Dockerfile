@@ -1,5 +1,6 @@
 Tugas pengganti UAS Manajemen Jaringan Dan Server (E)
 
+
 Nama : I Putu Fardeen Bagas Mahottama
 
 NIM : 2205551112
